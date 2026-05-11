@@ -1,6 +1,12 @@
-<img width="1800" height="538" alt="image" src="https://github.com/user-attachments/assets/1af90bd5-ee80-440d-92ea-1b467fe5ad4e" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6e392702-4dc1-4146-bc15-0e9eb06c45ed">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e37302ed-5d39-4fe7-b3e1-c9f82979248a">
+  <img alt="Applied Data Science Portfolio Banner" src="https://github.com/user-attachments/assets/e37302ed-5d39-4fe7-b3e1-c9f82979248a">
+</picture>
 
 <br>
+<br>
+
 A collection of independent data science notebooks covering exploratory analysis, predictive modeling, forecasting, feature engineering, visualization, and data quality investigation.
 
 Each notebook in this repository is structured as a standalone analytical project. The focus is on clear workflows, readable analysis, and practical problem-solving using real datasets.
